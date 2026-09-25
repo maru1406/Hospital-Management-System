@@ -76,3 +76,6 @@ JDBC
 MySQL Database
         ↓
 Patients | Doctors | Appointments
+## Demo
+
+[🎥 Watch the Project Demo](https://drive.google.com/file/d/13XYoDFFBYoxYNqIMB2BBHFa7PO62zmDX/view?usp=sharing)
